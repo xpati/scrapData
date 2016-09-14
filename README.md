@@ -8,4 +8,6 @@ http://www.dges.mctes.pt/coloc/2013/col1res.asp?BI=14666652
 in terminal use:
 
 python accepted.py              to see the university and course that the student were accepted
+
+
 python details.py               to see all of the university and courses applications
