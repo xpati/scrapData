@@ -1,6 +1,9 @@
 # scrapData
 
-from the 3 examples website data
+from the 3 examples of the dges
+http://www.dges.mctes.pt/coloc/2013/col1res.asp?BI=14787482
+http://www.dges.mctes.pt/coloc/2013/col1res.asp?BI=14511244
+http://www.dges.mctes.pt/coloc/2013/col1res.asp?BI=14666652
 
 in terminal use:
 
